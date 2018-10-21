@@ -1,0 +1,1 @@
+File to test committing to GitHub with proper git user name and email values.
