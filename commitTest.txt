@@ -1,1 +1,2 @@
 File to test committing to GitHub with proper git user name and email values.
+Adding this line to test committing from a different maching using the same GitHub account.
